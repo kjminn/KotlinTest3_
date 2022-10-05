@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinTest3</string>
+    <string name="text_start">선택을 시작하시겠습니까?</string>
+    <string name="check_start">시작함</string>
+    <string name="text_question">좋아하는 셀럽은?</string>
+    <string name="rb1">장원영</string>
+    <string name="rb2">유현주</string>
+    <string name="rb3">김윤지</string>
+    <string name="btn_done">선택완료</string>
+</resources>
